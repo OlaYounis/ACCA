@@ -3,7 +3,7 @@
 ## Choose Your Tool
 
 ### Lab 1A: Python (Google Colab)
-[![Open In Colab](https://colab.research.google.com/drive/1e5v6yT9D_15DkEPhOQina_bduROj_nle)
+[![Open In Colab](https://colab.research.google.com/drive/1e5v6yT9D_15DkEPhOQina_bduROj_nle?usp=sharing)
 
 **Best for:** Data analysts, technical roles
 
@@ -12,7 +12,7 @@
 ---
 
 ### Lab 1B: Excel
-📥 [Download Excel Workbook](https://github.com/OlaYounis/SDS-Labs/blob/main/L6-DTI/Lab1/Lab1B_Data_Cleaning_Excel.xlsx)
+📥 [Download Excel Workbook](https://github.com/OlaYounis/SDS-Labs/raw/refs/heads/main/L6-DTI/Lab1/Lab1B_Data_Cleaning_Excel.xlsx)
 
 **Best for:** Finance professionals, traditional accounting roles
 
