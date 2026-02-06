@@ -162,7 +162,7 @@ This method gives you more control and preserves data types correctly.
 
 **5. Missing "region"—FILL WITH MOST COMMON REGION:**
 - First, identify the most common region:
-  - Quick method: `Insert > PivotTable` → Drag `region` to Rows, Count to Values
+  - Quick method: `Insert > PivotTable` → Drag `region` to Rows, transaction_id to Values (it should become count of transaction_id)
   - Or use `Data > Sort & Filter > Advanced` to count unique values
 - Filter `region` → Show only `(Blanks)`
 - Fill with the most common region (e.g., "North")
